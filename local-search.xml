@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>test</title>
+    <link href="/2023/09/25/test/"/>
+    <url>/2023/09/25/test/</url>
+    
+    <content type="html"><![CDATA[<p>hello world</p><img src="/2023/09/25/test/test.png" class="" title="picture">]]></content>
+    
+    
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/09/25/hello-world/"/>
     <url>/2023/09/25/hello-world/</url>
